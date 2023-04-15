@@ -1,0 +1,6 @@
+[submodule "my-store"]
+	path = my-store
+	url = https://github.com/AndresDiagoM/my-store.git
+[submodule "FundamentosAngular/my-store"]
+	path = FundamentosAngular/my-store
+	url = https://github.com/AndresDiagoM/my-store.git
